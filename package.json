@@ -1,0 +1,22 @@
+{
+  "name": "twitchchatbot",
+  "version": "1.0.0",
+  "description": "Twitch Chat Bot built using Node.js and TMI.js (Twitch Messaging Interface)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jengelstengel/twitchChatBot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jengelstengel/twitchChatBot/issues"
+  },
+  "homepage": "https://github.com/jengelstengel/twitchChatBot#readme",
+  "dependencies": {
+    "tmi.js": "^1.3.0"
+  }
+}
